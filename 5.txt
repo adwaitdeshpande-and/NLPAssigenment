@@ -1,0 +1,5 @@
+Definition: The study of the structure and formation of words from smaller units like roots and affixes.
+Key Concepts:
+Affixes: Parts added to words, including prefixes, suffixes, infixes.
+Add/Delete Table: A table-based approach to identify and manipulate morphological elements in words.
+Applications: Used in language processing, spell-checking, and text generation.
